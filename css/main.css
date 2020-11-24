@@ -1,0 +1,112 @@
+
+.navbar-toggler {
+  cursor: pointer;
+}
+
+nav {
+  background-color: #D5D5D5;
+  padding: 2em;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.jumbotron {
+  background-color: rgb(235,220,200);
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 1%;
+}
+
+.intro {
+  margin: 0;
+}
+
+.about p {
+  color: #fff;
+}
+
+.btn .btn-secondary {
+  margin: auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+body {
+  background-color: rgb(100, 43, 2);
+  line-height: 1;
+  margin: 0; 
+}
+
+.topic {
+  margin: 0.1em;
+  padding-top: 2em;
+}
+
+div.box {
+  display: block;
+  padding: 10px;
+}
+
+.topics {
+  font-size: 55px;
+  color: #fff;
+  font-family: 'Dancing Script', cursive; 
+}
+
+.moreinfo {
+  font-size: 60px;
+  color: #fff; 
+  margin-top: 2%;
+}
+
+article p {
+  font-size: 17px;
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center;
+  font-size:15px;
+  font-family: monospace;
+  font-weight: bold;
+  line-height: 2em;
+}
+
+.card {
+  border: 2px solid rgba(0,0,0,0.5);
+  border-radius: 7px;
+  background-color: #a1a1a1;
+  -webkit-box-shadow: 20px 50px 50px 0px rgba(0,0,0,0.47);
+  -moz-box-shadow: 20px 50px 50px 0px rgba(0,0,0,0.47);
+  box-shadow: 20px 50px 50px 0px rgba(0,0,0,0.47);
+}
+
+.topic-card {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  height: 250px;
+  width: 100%;
+}
+
+.card .card-body {
+  padding: 10px;
+}
+
+.card-title {
+  color: #0a0a0a;
+}
+
+.footsy {
+  background-color: rgb(235,220,200);
+  text-align: center;
+  border-radius: 2%;
+}
+#parent {
+  font-family: 'Source Code Pro', monospace;  
+  font-size: 4rem;
+  color: #000;
+  font-weight: bold;
+}
+

@@ -1,3 +1,3 @@
 # Linear-Programming
-You can find my notes on Linear Programming
-<a href="https://hackmd.io/@cbBcXgVQTzaEI0gZpCRjOQ/HJuwu1C8P">here.</a>
+My notes on Linear Programming made as a part of Algorithm Analysis and Design Project.
+
